@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fourty4
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on E-commerce Platforms
+- 💞️ I’m looking to collaborate & Build
 - 📫 How to reach me mutukuk04@gmail.com
 
 <!---
